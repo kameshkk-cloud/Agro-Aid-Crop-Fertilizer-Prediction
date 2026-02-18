@@ -86,4 +86,3 @@ Agro-Aid/
 ├── sensor_Crop_Dataset.csv  
 ├── data_core.csv   
 └── .gitignore  
-.
